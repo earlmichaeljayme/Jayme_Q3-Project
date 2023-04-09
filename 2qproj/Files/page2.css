@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+}
+header{
+	background-color: #80A142;
+	margin-top: -30px;
+	margin-left:;
+	width: 100%;
+	padding: 5px;
+}
+#logo{
+	height: 30px;
+	width: 30px;
+	padding: 10px;
+	border-radius: 30%;
+	background-color: #D2E459;
+	margin: 10px;
+	margin-top: 35px;
+	display: block;
+}
+#title{
+	font-size: 75px;
+	text-align: center;
+}
+#background{
+	background-color: #D2E459;
+}
+#home{
+	display: block;
+}
+#moreinfo{
+	display: block;
+}
+#abtus{
+	display: block;
+}
